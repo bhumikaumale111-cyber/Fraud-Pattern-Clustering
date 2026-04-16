@@ -59,4 +59,3 @@ if st.button("Predict Fraud Risk"):
 
     st.write("---")
     st.write("**Note:** This model uses unsupervised clustering to identify anomalies. High risk indicates unusual patterns, not definitive fraud.")
-```
